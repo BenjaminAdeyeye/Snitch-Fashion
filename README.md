@@ -6,7 +6,7 @@
 ### TABLE OF CONTENTS
 - [PROJECT OVERVIEW](#project-overview)
 - [OBJECTIVE](#objective)
-- [ABOUT](#processes)
+- [PROCESSES](#processes)
 
 [Watch some videos here!](https://m.youtube.com)
 
