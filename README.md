@@ -5,8 +5,8 @@
 
 ### TABLE OF CONTENTS
 - [PROJECT OVERVIEW](#project-overview)
-- [OBJECTIVE](#objectives)
-- [Processes](#processes)
+- [OBJECTIVE](#objective)
+- [ABOUT](#processes)
 
 [Watch some videos here!](https://m.youtube.com)
 
@@ -19,3 +19,13 @@ This project is about all we have done so far in SQL and these include creating,
 
 ### OBJECTIVE
 The objective of SQL is to allow data analysts update, modify and view records in a database with less stress and help manage the databse effectively.
+
+### PROCESSES
+
+```python
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+df = pd.read_csv("diabetes.csv")
+```
+
